@@ -1,25 +1,25 @@
 {
-  "name": "pomodorotimer",
+  "name": "web-bootstraping",
   "version": "0.91.0",
-  "description": "A timer to keep track of your pomodoro's",
+  "description": "JS Gulp starting env",
   "main": "js/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sl4rtyb4rtf4st/pomodorotimer.git"
+    "url": "git+https://github.com/Sl4rtyb4rtf4st/web-bootstraping.git"
   },
   "author": "Andrew Millar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sl4rtyb4rtf4st/pomodorotimer/issues"
+    "url": "https://github.com/Sl4rtyb4rtf4st/web-bootstraping/issues"
   },
-  "homepage": "https://github.com/Sl4rtyb4rtf4st/pomodorotimer#readme",
+  "homepage": "https://github.com/Sl4rtyb4rtf4st/web-bootstraping#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-babel": "^8.0.0",
